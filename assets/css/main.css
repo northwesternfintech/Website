@@ -2421,6 +2421,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 5px;
 			display: block;
+			padding:10%;
 		}
 
 		.image.left, .image.right {
@@ -2462,6 +2463,7 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+	
 
 /* List */
 
